@@ -8,10 +8,10 @@ hide: [ date, title, context ]
 
 <em>Salutare!</em><br>
 
-Sunt doctor Marius Motoi, o persoană sociabilă și plină de energie. Am un angajament puternic față de medicină și cercetare. Doresc să contribui la îmbunătățirea sanătății mintale a oamenilor și a progresului psihiatriei în România.
+Sunt doctor Marius Motoi, o persoană sociabilă și plină de energie. Am un angajament puternic față de medicină și [cercetare](/cercetare). Doresc să contribui la îmbunătățirea sanătății mintale a oamenilor și a progresului psihiatriei în România.
 
 
-## YouTube
+### YouTube
 
 Cele mai recente esuri video. 
 
@@ -20,7 +20,7 @@ Cele mai recente esuri video.
 - [Tulburarea Afectiva Bipolara, Studiu de Caz](https://youtu.be/rQNGNpeF9DM)
     - un studiu de caz interesant despre viața unui pacient cu tulburare afectivă bipolară
 - [Tulburarea Afectiva Bipolara | De ce probabil NU esti bipolar](https://youtu.be/nq0-Dgd2_FE)
-    - principalele simptome ale tulburării afective bipolare, efectele asupra vieții, tratamentele și ce trebuie să faci dacă crezi că poți avea. Încerc să deschid o discuție pertinentă și informativă despre sănătatea mintală
+    - principalele simptome ale tulburării afective bipolare, efectele asupra vieții, tratamentele și ce trebuie să faci dacă crezi că poți avea. 
 
 Vezi [arhiva](/youtube) canalului YouTube
 
@@ -29,7 +29,7 @@ Vezi [arhiva](/youtube) canalului YouTube
 conscious, it will direct your life
 and you will call it fate." - Carl Jung
 
-## Conect
+### Conect
 
 👋   dr. Marius [email](mailto:desprepsihiatrie1@gmail.com), [TikTok](http://tiktok.com/@desprepsihiatrie.ro) [Instagram](https://www.instagram.com/desprepsihiatrie/), 📺[YouTube](https://www.youtube.com/@DesprePsihiatrie)
 
