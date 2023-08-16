@@ -27,9 +27,7 @@ Vezi [arhiva](/youtube) canalului YouTube
 >
 "Until you make the unconscious
 conscious, it will direct your life
-and you will call it fate."
-
-- Carl Jung
+and you will call it fate." - Carl Jung
 
 ## Conect
 
