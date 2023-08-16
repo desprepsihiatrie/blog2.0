@@ -12,12 +12,13 @@ Sunt doctor Marius Motoi. Sunt o persoană sociabilă și plină de energie. Am 
 
 ## Connect
 
-👋   Marius [email](mailto:desprepsihiatrie1@gmail.com), [Instagram](https://www.instagram.com/desprepsihiatrie/), 📺[YouTube](https://www.youtube.com/@DesprePsihiatrie)
+👋   Marius [email](mailto:desprepsihiatrie1@gmail.com), [TikTok](http://tiktok.com/@desprepsihiatrie.ro) [Instagram](https://www.instagram.com/desprepsihiatrie/), 📺[YouTube](https://www.youtube.com/@DesprePsihiatrie)
 
 ## YouTube
 
 - [Ritualuri, frici și anxietate - Despre OCD](https://www.youtube.com/watch?v=_gk4FZCPOFA&)
-- [Tulburarea Afectiva Bipolara, Studiu de Caz](https://youtu.be/rQNGNpeF9DM)
+- [Tulburarea Afectivă Bipolară, Studiu de Caz](https://youtu.be/rQNGNpeF9DM)
+- [Tulburarea Afectivă Bipolară |De ce probabil NU esti bipolar](https://youtu.be/nq0-Dgd2_FE)
 
 <style>
     .sidenote-number, .sidenote::before {
