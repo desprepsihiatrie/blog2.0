@@ -8,7 +8,7 @@ hide: [ date, title, context ]
 
 <em>Salutare!</em><br>
 
-Sunt doctor Marius Motoi. Sunt o persoană sociabilă și plină de energie. Am un angajament puternic față de medicină și cercetare. Doresc să contribui la îmbunătățirea sanătății mintale a oamenilor și a progresului psihiatriei în România.
+Sunt doctor Marius Motoi, o persoană sociabilă și plină de energie. Am un angajament puternic față de medicină și cercetare. Doresc să contribui la îmbunătățirea sanătății mintale a oamenilor și a progresului psihiatriei în România.
 
 
 ## YouTube
@@ -19,18 +19,19 @@ Cele mai recente esuri video.
     - cele mai eficiente metode de tratament pentru OCD, de la terapia cognitiv-comportamentală la medicamente precum SSRI-urile
 - [Tulburarea Afectivă Bipolară, Studiu de Caz](https://youtu.be/rQNGNpeF9DM)
     - un studiu de caz interesant despre viața unui pacient cu tulburare afectivă bipolară
-- [Tulburarea Afectivă Bipolară |De ce probabil NU esti bipolar](https://youtu.be/nq0-Dgd2_FE)
+- [Tulburarea Afectivă Bipolară | De ce probabil NU esti bipolar](https://youtu.be/nq0-Dgd2_FE)
     - principalele simptome ale tulburării afective bipolare, efectele asupra vieții, tratamentele și ce trebuie să faci dacă crezi că poți avea. Încerc să deschid o discuție pertinentă și informativă despre sănătatea mintală
 
-Vezi [arhiva completă](/youtube) a canalului YouTube
+Vezi [arhiva](/youtube) canalului YouTube
 
 >
 "Until you make the unconscious
 conscious, it will direct your life
 and you will call it fate."
+
 - Carl Jung
 
-## Connect
+## Conect
 
 👋   dr. Marius [email](mailto:desprepsihiatrie1@gmail.com), [TikTok](http://tiktok.com/@desprepsihiatrie.ro) [Instagram](https://www.instagram.com/desprepsihiatrie/), 📺[YouTube](https://www.youtube.com/@DesprePsihiatrie)
 
