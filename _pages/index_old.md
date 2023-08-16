@@ -6,7 +6,7 @@ permalink: /
 hide: [ date, title, context ]
 ---
 
-<em>Salutare!,</em><br>
+<em>Salutare!</em><br>
 
 Sunt doctor Marius Motoi. Sunt o persoană sociabilă și plină de energie. Am un angajament puternic față de medicină și cercetare. Doresc să contribui la îmbunătățirea sanătății mintale a oamenilor și a progresului psihiatriei în România.
 
