@@ -9,5 +9,5 @@ Pe acest canal găsiți o serie de videoclipuri care explorează sistemul de să
     - cele mai eficiente metode de tratament pentru OCD, de la terapia cognitiv-comportamentală la medicamente precum SSRI-urile
 - [Tulburarea Afectivă Bipolară, Studiu de Caz](https://youtu.be/rQNGNpeF9DM)
     - un studiu de caz interesant despre viața unui pacient cu tulburare afectivă bipolară
-- [Tulburarea Afectivă Bipolară |De ce probabil NU esti bipolar](https://youtu.be/nq0-Dgd2_FE)
+- [Tulburarea Afectivă Bipolară | De ce probabil NU esti bipolar](https://youtu.be/nq0-Dgd2_FE)
     - principalele simptome ale tulburării afective bipolare, efectele asupra vieții, tratamentele și ce trebuie să faci dacă crezi că poți avea. Încerc să deschid o discuție pertinentă și informativă despre sănătatea mintală
