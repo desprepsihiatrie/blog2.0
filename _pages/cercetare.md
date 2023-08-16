@@ -7,25 +7,32 @@ title: "Cercetare"
 
 Nu vă faceți griji, nu voi posta doar texte plictisitoare! Voi incerca să explic pe înțelesul tuturor informațiile esențiale și să evidențiez cele mai interesante descoperiri. Totodată, voi adăuga și propriile mele comentarii, ca să nu adormiți citind.
 
+### Meta-analize comparative privind eficacitatea medicației psihiatrice
+
 - [Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder](https://pubmed.ncbi.nlm.nih.gov/29477251/)
 
 - [Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis](https://pubmed.ncbi.nlm.nih.gov/29477251/)
+
+- [Comparative efficacy and acceptability of 12 new-generation antidepressants: a multiple-treatments meta-analysis](https://pubmed.ncbi.nlm.nih.gov/19185342/)
+
+- [Comparative efficacy and acceptability of antimanic drugs in acute mania: a multiple-treatments meta-analysis](https://pubmed.ncbi.nlm.nih.gov/21851976/)
+
+
+### Recenzii/meta-analize privind tratamentele noi:
 
 - [Efficacy and Safety of Low-Dose Esketamine Nasal Spray in Patients With Treatment-Resistant Depression](https://pubmed.ncbi.nlm.nih.gov/31109201/)
 
 - [A systematic review and meta-analysis of randomized, double-blind, placebo-controlled trials of ketamine in the rapid treatment of major depressive episodes](https://pubmed.ncbi.nlm.nih.gov/25010396/)
 
-- [Comparative efficacy and acceptability of antimanic drugs in acute mania: a multiple-treatments meta-analysis](https://pubmed.ncbi.nlm.nih.gov/21851976/)
-
-- [Comparative efficacy and acceptability of 12 new-generation antidepressants: a multiple-treatments meta-analysis](https://pubmed.ncbi.nlm.nih.gov/19185342/)
-
 - [Memantine for Alzheimer's disease: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/28922160/)
 
 - [Antipsychotic plasma levels in the assessment of poor response in schizophrenia: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/29072776/)
 
-- [Treating prodromal psychosis: a systematic review and meta-analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8390336/)
-
 - [Transcranial direct current stimulation for major depression: a systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/24713139/)
+
+### Recenzii privind alte afecțiuni sau tratamente specifice:
+
+- [Treating prodromal psychosis: a systematic review and meta-analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8390336/)
 
 - [Comparative efficacy and acceptability of 12 new-generation antidepressants: a multiple-treatments meta-analysis](https://pubmed.ncbi.nlm.nih.gov/19185342/)
 
@@ -46,6 +53,10 @@ Nu vă faceți griji, nu voi posta doar texte plictisitoare! Voi incerca să exp
 - [Acute and long-term treatment of mania](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181868/)
 
 - [Deep brain stimulation in psychiatry: a systematic review of published cases](https://pubmed.ncbi.nlm.nih.gov/25085317/)
+
+
+
+
 
 >
 Please stop saying you researched it.  
